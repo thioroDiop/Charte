@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+
+Toujours faire un pull avant un push
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+>>>>>>> e75b24dd5ebe5aff99902e0a96f909f78bdbc96f
 Règle #1 : Respecter les horaires de cours
 Règle #2 : Prévenir en cas d'absence
 Règle #3 : Travailler dans la bonne humeur
