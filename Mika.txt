@@ -1,0 +1,3 @@
+Regle 1 La regle numero 1
+Regle 2 Suivre la regle 1
+Regle 3 Trouver une nouvelle regle
