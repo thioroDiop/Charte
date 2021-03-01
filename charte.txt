@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 régle num 2 : trouver une deuxieme regle
 
+=======
+coucou règle #1
+>>>>>>> 314860524f4d2cc6bc93466f8d7c087ee57f3cc7
