@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 First Règle à connaitre !
@@ -7,6 +8,9 @@ First Règle à connaitre !
 Je change mon masque anti-Covid de manière régulière
 =======
 <<<<<<< HEAD
+=======
+Règle #2: J'adore les chouquettes :)
+>>>>>>> 9ba74257c4bed72a242b5ab4fac23a6ad2a4c2d6
 =======
 coucou règle #1
 
@@ -25,6 +29,7 @@ coucou règle #1
 
 
 Mais non c'est Jules qui avait tort !
+>>>>>>> f6bb1d6971e97a96a475a39b82db07c8bbcd5e6a
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
