@@ -1,5 +1,25 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Règle #2: J'adore les chouquettes :)
+=======
+coucou règle #1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mais non c'est Jules qui avait tort !
+>>>>>>> f6bb1d6971e97a96a475a39b82db07c8bbcd5e6a
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
