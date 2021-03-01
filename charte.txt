@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Vive le Codingue
 Courage
 Ouverture
@@ -9,3 +10,13 @@ Groupe
 =======
 First Règle à connaitre !
 >>>>>>> df3d1da6fd30dac90290270a10315da070cc7b49
+=======
+<<<<<<< HEAD
+test iabed
+=======
+First Règle à connaitre !
+>>>>>>> df3d1da6fd30dac90290270a10315da070cc7b49
+=======
+coucou règle #1
+>>>>>>> 314860524f4d2cc6bc93466f8d7c087ee57f3cc7
+>>>>>>> f023730713a38c005f6cca54f70245450f0213e3
