@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 <<<<<<< HEAD
@@ -20,19 +21,13 @@ Toujours faire un pull avant un push
 
 
 
+=======
+>>>>>>> e75b24dd5ebe5aff99902e0a96f909f78bdbc96f
 Règle #1 : Respecter les horaires de cours
 Règle #2 : Prévenir en cas d'absence
 Règle #3 : Travailler dans la bonne humeur
 Règle #4 : Collaborer et être bienveillant
 Règle #5 : Apporter des chouquettes à tour de rôle
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-<<<<<<< HEAD
 la regle 8
 
 coucou règle #1
@@ -40,70 +35,23 @@ trouver une une regle
 
 First Règle à connaitre !
 Je change mon masque anti-Covid de manière régulière
-<<<<<<< HEAD
 Règle #2: J'adore les chouquettes :)
 coucou règle #1
 
 Mais non c'est Jules qui avait tort !
-=======
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 
 STOP !!!! +++++++++++++
 ARRETEZ LE MASSACRE !!!
 
 Règle #2: J'adore les chouquettes :)
-=======
-<<<<<<< HEAD
 coucou règle #1
 
 J'arrive de bonne humeur et avec le sourire
 
-<<<<<<< HEAD
 Règle : arriver de bonne humeur et avec le souriregit 
-=======
-
-
-
-
-
-
-
+Mais non c'est Jules qui avait tort !
 
 Mais non c'est Jules qui avait tort !
->>>>>>> f6bb1d6971e97a96a475a39b82db07c8bbcd5e6a
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-
->>>>>>> 9ba74257c4bed72a242b5ab4fac23a6ad2a4c2d6
-
-
-
-
-
-
-<<<<<<< HEAD
-=======
-
-
-
-Mais non c'est Jules qui avait tort !
->>>>>>> f6bb1d6971e97a96a475a39b82db07c8bbcd5e6a
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 4fb508f138d539b00d5556e1ee19ce779f67dea7
->>>>>>> 7f3c752d3a9471dac6a7822fd6bc7bfc883b04c1
->>>>>>> ebe3bf0083a9f64eb541b738af9c59ea59744645
 Vive le Codingue
 Courage
 Ouverture
@@ -118,25 +66,3 @@ First Règle à connaitre !
 First Règle à connaitre !
 
 coucou règle #1
-<<<<<<< HEAD
-
-=======
->>>>>>> 314860524f4d2cc6bc93466f8d7c087ee57f3cc7
->>>>>>> f023730713a38c005f6cca54f70245450f0213e3
->>>>>>> b7b684841024164b359bf2d8a5d2e5223696fe62
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 9ba74257c4bed72a242b5ab4fac23a6ad2a4c2d6
-=======
->>>>>>> 4fb508f138d539b00d5556e1ee19ce779f67dea7
->>>>>>> f6bb1d6971e97a96a475a39b82db07c8bbcd5e6a
->>>>>>> da2ce361373cf3d019c1ed7ef4c50cf1e234e621
-=======
->>>>>>> 7f3c752d3a9471dac6a7822fd6bc7bfc883b04c1
-<<<<<<< HEAD
-=======
->>>>>>> 8b187bb4fb162f589e38bd1ee99eb7326c41cc9e
->>>>>>> 4fb508f138d539b00d5556e1ee19ce779f67dea7
->>>>>>> ebe3bf0083a9f64eb541b738af9c59ea59744645
