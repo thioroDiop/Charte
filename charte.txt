@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Vive le Codingue
 Courage
 Ouverture
@@ -5,3 +6,6 @@ Determination
 Imagination
 Nerd
 Groupe
+=======
+First Règle à connaitre !
+>>>>>>> df3d1da6fd30dac90290270a10315da070cc7b49
