@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 First Règle à connaitre !
@@ -6,6 +7,39 @@ First Règle à connaitre !
 Je change mon masque anti-Covid de manière régulière
 =======
 <<<<<<< HEAD
+=======
+coucou règle #1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mais non c'est Jules qui avait tort !
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Vive le Codingue
+Courage
+Ouverture
+Determination
+Imagination
+Nerd
+Groupe
+=======
+First Règle à connaitre !
+>>>>>>> df3d1da6fd30dac90290270a10315da070cc7b49
+=======
+>>>>>>> f6bb1d6971e97a96a475a39b82db07c8bbcd5e6a
 <<<<<<< HEAD
 test iabed
 =======
@@ -15,3 +49,7 @@ First Règle à connaitre !
 coucou règle #1
 >>>>>>> 314860524f4d2cc6bc93466f8d7c087ee57f3cc7
 >>>>>>> f023730713a38c005f6cca54f70245450f0213e3
+<<<<<<< HEAD
+=======
+>>>>>>> b7b684841024164b359bf2d8a5d2e5223696fe62
+>>>>>>> f6bb1d6971e97a96a475a39b82db07c8bbcd5e6a
