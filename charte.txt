@@ -1,68 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-
-Toujours faire un pull avant un push
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> e75b24dd5ebe5aff99902e0a96f909f78bdbc96f
+Règle #0 : Toujours faire un pull avant un push
 Règle #1 : Respecter les horaires de cours
 Règle #2 : Prévenir en cas d'absence
 Règle #3 : Travailler dans la bonne humeur
 Règle #4 : Collaborer et être bienveillant
 Règle #5 : Apporter des chouquettes à tour de rôle
-la regle 8
-
-coucou règle #1
-trouver une une regle  
-
-First Règle à connaitre !
-Je change mon masque anti-Covid de manière régulière
-Règle #2: J'adore les chouquettes :)
-coucou règle #1
-
-Mais non c'est Jules qui avait tort !
-
-STOP !!!! +++++++++++++
-ARRETEZ LE MASSACRE !!!
-
-Règle #2: J'adore les chouquettes :)
-coucou règle #1
-
-J'arrive de bonne humeur et avec le sourire
-
-Règle : arriver de bonne humeur et avec le souriregit 
-Mais non c'est Jules qui avait tort !
-
-Mais non c'est Jules qui avait tort !
-Vive le Codingue
-Courage
-Ouverture
-Determination
-Imagination
-Nerd
-Groupe
-
-First Règle à connaitre !
-
-
-First Règle à connaitre !
-
-coucou règle #1
+Règle #6 : Je change mon masque anti-Covid de manière régulière
+Règle #7 : J'arrive de bonne humeur et avec le sourire
